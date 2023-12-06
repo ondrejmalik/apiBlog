@@ -71,3 +71,4 @@ C:\Users\om777\Downloads\apiBlog-main\api\api\bin\Debug\net6.0\Microsoft.Identit
 C:\Users\om777\Downloads\apiBlog-main\api\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\om777\Downloads\apiBlog-main\api\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\om777\Downloads\apiBlog-main\api\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\om777\Downloads\apiBlog-main\api\api\obj\Debug\net6.0\api.sourcelink.json
